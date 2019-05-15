@@ -1,0 +1,15 @@
+{
+  "is_loop": false,
+  "release_time": 0.0,
+  "dont_change_controlls": true,
+
+  "controlls": {},
+
+  "events": [{
+    "type": "note",
+    "pitch": 72,
+    "velocity": 10,
+    "time": 0,
+    "duration": 0.03
+  }]
+}

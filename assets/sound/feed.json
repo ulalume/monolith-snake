@@ -1,0 +1,40 @@
+{
+  "is_loop": false,
+  "release_time": 0,
+  "dont_change_controlls": true,
+
+  "controlls": {
+  },
+
+  "events": [{
+    "type": "note",
+    "pitch": 83,
+    "velocity": 118,
+    "time": 0,
+    "duration": 0.033
+  }, {
+    "type": "note",
+    "pitch": 84,
+    "velocity": 118,
+    "time": 0.033,
+    "duration": 0.034
+  }, {
+    "type": "note",
+    "pitch": 85,
+    "velocity": 118,
+    "time": 0.067,
+    "duration": 0.033
+  }, {
+    "type": "note",
+    "pitch": 86,
+    "velocity": 118,
+    "time": 0.100,
+    "duration": 0.033
+  }, {
+    "type": "note",
+    "pitch": 87,
+    "velocity": 118,
+    "time": 0.133,
+    "duration": 0.033
+  }]
+}
